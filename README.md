@@ -75,7 +75,4 @@ The dataset contains information about used cars, including:
 
 This project demonstrated how machine learning can be effectively used to estimate the selling price of a used car. It involved data preprocessing, visualization, regression modeling, and evaluation. The model can be further optimized or deployed as a web app in the future.
 
----
-
-## 📁 Project Structure
 
